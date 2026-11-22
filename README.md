@@ -17,7 +17,7 @@
 
 🌱 Currently Learning:
 - Advanced Data Structures & Algorithms
-- Frontend Development
+- AI ML 
 - Machine Learning
 - System Design
 
